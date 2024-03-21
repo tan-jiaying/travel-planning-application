@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lilita+One&family=Varela+Round&display=swap');
+
+.nav-bar {
+    position: fixed;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #DDEFFD;
+    overflow: hidden;
+    z-index: 3;
+}
+
+.nav-box {
+    height: 60px;
+    width: 1100px;
+    transform: translate(-10px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-text{
+    font-size: 24px;
+    font-family: 'Acme', sans-serif;
+    color: #75A3C8;
+    text-decoration: none;
+    line-height: 59px; 
+    float: left;
+}
+
+.nav-list {
+    display: inline-block;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Verdana;
+    width: 84px;
+    line-height: 59px; 
+    white-space: nowrap; 
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.nav-list:hover {
+    color: #696969;
+}
+
+.nav-login {
+    float: right;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    width: 84px;
+    line-height: 59px; 
+    white-space: nowrap; 
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.nav-login:hover {
+    color: #696969;
+}
+
+#nav-home {
+    position: absolute;
+    width: 74.4px;
+    height: 5.2px;
+    background-color: #75A3C8;
+    bottom: 0;
+    transform: translate(5px);
+    z-index: -1;
+    display: none;
+}
+
+#nav-explore {
+    position: absolute;
+    width: 74.4px;
+    height: 5.2px;
+    background-color: #75A3C8;
+    bottom: 0;
+    transform: translate(5px);
+    z-index: -1;
+    display: none;
+}
+
+#nav-trips {
+    position: absolute;
+    width: 74.4px;
+    height: 5.2px;
+    background-color: #75A3C8;
+    bottom: 0;
+    transform: translate(5px);
+    z-index: -1;
+    display: none;
+}
+
+#login-btn {
+    float: right;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+    font-family: Verdana;
+    background-color: #90CAF9;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#login-btn:hover {
+    color: white;
+    background-color: #75A3C8;
+    cursor: pointer;
+}
+
+.signup-text {
+    color: #75A3C8;
+    font-family: Verdana;
+}
+
+.signup-text:hover {
+    color: #4178A4;
+}
+
+.fa-person-walking-luggage {
+    font-size: 25px;
+}
