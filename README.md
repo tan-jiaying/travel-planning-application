@@ -4,8 +4,6 @@ This is a travel itinerary planning web application with auto route suggestion a
 
 > Screenshots of Application
 
-![Home](https://github.com/tan-jiaying/tripbuilder/assets/106059007/f4ce9757-a659-47a6-991d-9176f62dd674)
-![Sign Up](https://github.com/tan-jiaying/tripbuilder/assets/106059007/2fe68824-2231-427e-afaf-3ff4d1888d36)
 ![Home](https://github.com/tan-jiaying/tripbuilder/assets/106059007/a8d405eb-2e03-48c7-a50a-955ec7d2902f)
 ![Sign Up](https://github.com/tan-jiaying/tripbuilder/assets/106059007/f1f6108f-8ca6-4afb-bd15-5a5ce987503d)
 ![Login](https://github.com/tan-jiaying/tripbuilder/assets/106059007/83fccb7d-70b4-47b7-b7d0-ca56600873c0)
